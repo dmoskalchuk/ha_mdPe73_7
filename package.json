@@ -2,10 +2,10 @@
   "name": "hapi",
   "description": "HTTP Server framework",
   "homepage": "http://hapijs.com",
-  "version": "16.7.0",
+  "version": "16.7.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hapijs/hapi"
+    "url": "git://github.com/dmoskalchuk/ha_mdPe73_7"
   },
   "main": "lib/index.js",
   "keywords": [
@@ -31,7 +31,7 @@
     "podium": "1.x.x",
     "shot": "3.x.x",
     "somever": "1.x.x",
-    "statehood": "5.x.x",
+    "statehood": "https://github.com/dmoskalchuk/sh_9dJF83_4",
     "subtext": "5.x.x",
     "topo": "2.x.x"
   },
